@@ -1,1 +1,2 @@
 Working on feature1
+fixing bug at hotfix branch
